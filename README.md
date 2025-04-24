@@ -18,3 +18,16 @@ O projeto foi construído com **React Native** utilizando **Expo**, com foco em 
 - JavaScript (ES6+)
 
 ![image](https://github.com/user-attachments/assets/ba65d9a3-0137-4fc7-b159-8e82204ac928)
+
+🧩 Funcionalidades implementadas:
+Tela inicial com layout dividido em cabeçalho, conteúdo e rodapé
+
+Componente Cartão de Apresentação com:
+
+Imagem ilustrativa
+
+Nome do usuário/aluno
+
+Descrição simples
+
+Botão estilizado
