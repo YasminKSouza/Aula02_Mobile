@@ -34,3 +34,10 @@ Botão estilizado
 
 ![image](https://github.com/user-attachments/assets/d6621d88-eac1-4c9e-b62c-7d2325a2f51d)
 
+Componente Cartão de Perfil com:
+
+Foto de perfil
+
+Nome do usuário
+
+Informações adicionais (descrição, contatos, etc.)
